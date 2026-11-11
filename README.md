@@ -5,7 +5,7 @@
 
 ## 1. Алгоритм и блок схема
 ## блок схема
-<img width="1028" height="800" alt="image" src="https://github.com/user-attachments/assets/2d7cc080-7ebe-4c71-a569-3f6f7f82541e" />
+<img width="1042" height="801" alt="image" src="https://github.com/user-attachments/assets/9259445a-f552-48bb-b734-ead4e8edf617" />
 
 ## 2. Реализация программы
 см.  source.c
